@@ -51,11 +51,10 @@ This tutorial explains the ticket lifecycle within the open-source help desk tic
 
 - Update the ticket with the following properties:
   - **SLA:** Sev-A (1 hour, 24/7).
-  - **Assigned To:** Online Banking Department.
+  - **Assigned To:** Online Banking Department. (Jane)
 
-<p>
-<img src="https://i.imgur.com/cisoLqw.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/b7fa669a-76f6-46cf-8f3d-90aea2ddaf77)
+
 
 <h3>4.) Verify Ticket Permissions</h3>
 
